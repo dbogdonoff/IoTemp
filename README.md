@@ -1,4 +1,4 @@
 IoTemp
 ======
 
-First Account
+Allow multiple temperature sensing devices to broadcast results to the internet.
